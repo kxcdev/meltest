@@ -1,0 +1,2 @@
+(vendored_dirs vendors)
+(env (_ (flags :standard -w -9)))

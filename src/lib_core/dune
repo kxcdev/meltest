@@ -1,0 +1,6 @@
+(library
+ (name meltest)
+ (public_name meltest.core)
+ (libraries kxclib.melange)
+ (modes melange))
+
